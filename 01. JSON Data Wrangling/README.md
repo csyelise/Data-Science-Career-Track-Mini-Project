@@ -1,4 +1,4 @@
-# JSON examples and exercise
+# JSON Data Wrangling
 - get familiar with packages for dealing with JSON
 - study examples with JSON strings and files
 - work on exercise to be completed and submitted 
