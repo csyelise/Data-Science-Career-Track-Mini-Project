@@ -4,17 +4,17 @@ This repository contains all completed mini-projects from the springboard curric
 
 ## Projects
 ### Data Wrangling
-- [JSON Data Wrangling](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/01.%20JSON%20Data%20Wrangling)
-- SQL Data Wrangling
-- API Data Wrangling
+01. [JSON Data Wrangling](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/01.%20JSON%20Data%20Wrangling)
+02. SQL Data Wrangling
+03. API Data Wrangling
 
 ### Inferential Statistics
-- Exploratory Data Analysis on Human Body Temperature
-- Exploratory Data Analysis on Racial Discrimination
-- Exploratory Data Analysis on Hospital Readmissions
+04. Exploratory Data Analysis on Human Body Temperature
+05. Exploratory Data Analysis on Racial Discrimination
+06. Exploratory Data Analysis on Hospital Readmissions
 
 ### Machine Learning
-- Linear Regression on Boston Housing Prices
-- Logistic Regression on Gender Height and Weight
-- Naive Bayes for Text Classification of Movie Ratings and Reviews
-- Clustering for Marketing Customer Segmentation
+07. Linear Regression on Boston Housing Prices
+08. Logistic Regression on Gender Height and Weight
+09. Naive Bayes for Text Classification of Movie Ratings and Reviews
+10. Clustering for Marketing Customer Segmentation
