@@ -5,8 +5,8 @@ This repository contains all completed mini-projects from the springboard curric
 ## Projects
 ### Data Wrangling
 01. [JSON Data Wrangling](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/01.%20JSON%20Data%20Wrangling)
-02. SQL Data Wrangling
-03. API Data Wrangling
+02. [SQL Data Wrangling](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/02.%20SQL_Practice)
+03. [API Data Wrangling](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/03.%20API_Data_Wrangling)
 
 ### Inferential Statistics
 04. Exploratory Data Analysis on Human Body Temperature
