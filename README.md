@@ -9,10 +9,10 @@ This repository contains all completed mini-projects from the springboard curric
 03. [API Data Wrangling](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/03.%20API_Data_Wrangling)
 
 ### Inferential Statistics
-04. Exploratory Data Analysis on Human Body Temperature
-05. Exploratory Data Analysis on Racial Discrimination
-06. Exploratory Data Analysis on Hospital Readmissions
-
+04. [Inferential Statistics](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/04.%20Inferential%20Statistics)
+05. [Bootstrap Statistics](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/05.%20Bootstrap%20Statistics)
+06. [Bayesian Inference](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/06.%20Bayesian%20Inference
+)
 ### Machine Learning
 07. Linear Regression on Boston Housing Prices
 08. Logistic Regression on Gender Height and Weight
