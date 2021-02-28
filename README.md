@@ -14,7 +14,7 @@ This repository contains all completed mini-projects from the springboard curric
 06. [Bayesian Inference](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/06.%20Bayesian%20Inference
 )
 ### Machine Learning
-07. Linear Regression on Boston Housing Prices
-08. Logistic Regression on Gender Height and Weight
-09. Naive Bayes for Text Classification of Movie Ratings and Reviews
-10. Clustering for Marketing Customer Segmentation
+07. [Linear Regression on Boston Housing Prices](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/07.Linear%20Regression%20on%20Boston%20Housing%20Prices)
+08. [Logistic Regression on Gender Height and Weight](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/08.Logistic%20Regression%20on%20Gender%20Height%20and%20Weight9. )
+09. [Naive Bayes for Text Classification of Movie Ratings and Reviews](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/09.Naive%20Bayes%20for%20Text%20Classification%20of%20Movie%20Ratings%20and%20Reviews10.) 
+10. [Clustering for Marketing Customer Segmentation](https://github.com/csyelise/Data-Science-Career-Track-Mini-Project/tree/master/10.Clustering%20for%20Marketing%20Customer%20Segmentation)
